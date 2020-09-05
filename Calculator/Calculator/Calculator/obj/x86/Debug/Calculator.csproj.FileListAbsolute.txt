@@ -1,0 +1,16 @@
+D:\TestC#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\TestC#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\TestC#\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\TestC#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\TestC#\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\TestC#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\TestC#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\user\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
